@@ -121,7 +121,6 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_DEVICE_VERSION := T610YP_hxzbaka
 TW_BRIGHTNESS_PATH := "/sys/devices/platform/sprd_backlight/backlight/sprd_backlight/brightness"
-TW_EXCLUDE_DEFAULT_USB_INIT := true
 TW_NO_HAPTICS := true
 TW_NO_SCREEN_TIMEOUT := true
 
