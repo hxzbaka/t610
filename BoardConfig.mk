@@ -123,6 +123,8 @@ TW_DEVICE_VERSION := T610YP_hxzbaka
 TW_BRIGHTNESS_PATH := "/sys/devices/platform/sprd_backlight/backlight/sprd_backlight/brightness"
 TW_NO_HAPTICS := true
 TW_NO_SCREEN_TIMEOUT := true
+TW_INCLUDE_FUSE_EXFAT := true
+TW_INCLUDE_EXFAT_TOOLS := true
 
 # Debug
 TWRP_INCLUDE_LOGCAT := true
